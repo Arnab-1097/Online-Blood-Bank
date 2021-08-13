@@ -1,4 +1,4 @@
-# Online-Blood-Bank
+# Online Blood Bank
 
 Instructions:
 1.cpy to xampp-->htdocs
